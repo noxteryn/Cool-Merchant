@@ -47,7 +47,7 @@ namespace CoolMerchant.NPCs
 						case 9:
 							shop.item[nextSlot].SetDefaults(ItemID.Sextant);
 							break;
-						case 10;
+						case 10:
 							shop.item[nextSlot].SetDefaults(ItemID.SandstorminaBottle);
 							break;
 					}
